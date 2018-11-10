@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Rusty Steele</title>
+	<title>Tofu the Corgi</title>
 </head>
 <body>
 
